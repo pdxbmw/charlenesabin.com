@@ -1,0 +1,13 @@
+---
+# Main SCSS overrides
+---
+
+$sidebar-bg-color: #eee;
+$sidebar-fg-color: #fff;
+$sidebar-sticky: true;
+$layout-reverse: false;
+
+$sidebar-title-color: $sidebar-fg-color;
+$sidebar-link-color: $sidebar-fg-color;
+$sidebar-text-color: rgba($sidebar-fg-color, 0.75);
+$sidebar-icon-color: rgba($sidebar-fg-color, 0.85);
